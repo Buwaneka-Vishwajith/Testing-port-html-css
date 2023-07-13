@@ -1,0 +1,58 @@
+body{
+    background-color: #142850;
+}
+
+
+#title{
+    font-family: 'Space Mono', monospace;
+    color:rgb(0, 255, 225)
+}
+img{
+    border-radius: 20px;
+    border-style:double;
+}
+#sub{
+    color: rgb(0, 255, 191);
+    font-family: 'Space Mono', monospace;
+    text-align: justify;
+}
+
+.hero{
+    background-color: #142850;
+    display: flex;
+    position: relative;   
+}
+
+.logo{
+    background-color: #142850;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-left: 100%;
+    color: #142850;
+}
+
+.footer1{
+    background-color: #0C7B93;
+}
+
+
+.text{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 25%;
+    color: black;
+    font-family: 'Space Mono', monospace;   
+}
+
+.container{
+    background-color: #142850;
+
+}
+
+hello{
+    background-color: #0C7B93;
+}
+
