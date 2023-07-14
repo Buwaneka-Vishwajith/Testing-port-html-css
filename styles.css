@@ -23,36 +23,38 @@ img{
     position: relative;   
 }
 
-.logo{
+/* .logo{
     background-color: #142850;
     position: relative;
     align-items: center;
     justify-content: center;
-    margin-left: 100%;
+    margin-left: 143%;
     color: #142850;
-}
+} */
 
 .footer1{
-    background-color: #0C7B93;
+    background-color: #00A8CC;
 }
 
 
-.text{
-    position: absolute;
+ .text{
+    /* position: absolute;
     align-items: center;
     justify-content: center;
     margin-top: 10px;
-    margin-left: 25%;
-    color: black;
+    margin-left: 39.5%;
+    color: black; */
     font-family: 'Space Mono', monospace;   
+} 
+
+#tools{
+    color: #00ffd9;
 }
 
-.container{
-    background-color: #142850;
-
+.custom-container{
+    background-color: #27496D;
 }
 
-hello{
-    background-color: #0C7B93;
+.container-cora{
+    background-color:#27496D;
 }
-
